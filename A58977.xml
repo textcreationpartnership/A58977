@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second letter from Legorn with a farther account as incredible and unparalell'd as the first : from aboard the Van-Herring, December 10, 1679.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58977</idno>
+            <idno type="STC">Wing S2283A</idno>
+            <idno type="STC">ESTC R32136</idno>
+            <idno type="EEBO-CITATION">12329807</idno>
+            <idno type="OCLC">ocm 12329807</idno>
+            <idno type="VID">59623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1027:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second letter from Legorn with a farther account as incredible and unparalell'd as the first : from aboard the Van-Herring, December 10, 1679.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: page torn with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Insubordination --  Great Britain.</term>
+               <term>Merchant mariners --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59623:1"/>
+            <head>A Second Letter from LEGORN, With a farther Account, as Incredible and Unparalell'd as the firſt.</head>
+            <opener>
+               <dateline>From aboard the <hi>Van-herring,</hi> 
+                  <date>December <hi>10. 1679.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>LEST mine of <hi>Decemb.</hi> 1ſt. ſhould not come to your hands, I ſend a ſecond, with ſome farther Account, as incredible and unparalell'd which, for the ſtrangeneſs of it, may ſeem rather a Romance than a Reality. So it is, that ſundry of our Saylors have capitulated with the <hi>Algerines,</hi> and conſpired together to kill the Captain, to betray the Ship, to make prize of the Goods, and Slaves of our Perſons. This curſed Contri<g ref="char:EOLhyphen"/>vance is wonderfully brought to light, by two or three of their own Crew, who (touch'd with remorſe for ſo Helliſh an Enterprize) have made an ingenuous Confeſſion of the whole Intrigue.</p>
+            <p>When it was firſt ſuggeſted, and revealed to ſome of our Principal Commanders, they took little notice of it. Whether it was from their Increduli<g ref="char:EOLhyphen"/>ty, or becauſe they themſelves were in the Confederacy, I can't determine. At length an honeſt <hi>Boatſwain,</hi> being made privy to it, he took the Con<g ref="char:EOLhyphen"/>feſſion and the Examination of the firſt Diſcoverer, and carried it to the Captain and Council of Officers, who ſeemed to be ſtartled at it, but made no great haſte to enquire into it. This officiouſneſs of the <hi>Boatſwain</hi> procur'd him the implacable hatred of the Conſpirators; <hi>and ſome of them cunningly trepann'd him (one night) into one of their Cabbins, where they firſt STRANGLED HIM, and then privately threw him overboard.</hi> Next day, being miſs'd, great enquiry was made after him, and after a while <hi>his dead Corps</hi> was found floating on the Sea. Some very confidently affirmed, that in diſcontent he had drown'd himſelf; but anon his dead Body being more narrowly viewed, it evidently appeared, that he had been <hi>ſtrangled</hi>; which made all con<g ref="char:EOLhyphen"/>clude that he was <hi>Murthered</hi> by theſe <hi>Conſpirators,</hi> either to ſtrike terrour into others, or to ſatisfie their own revenge. This wicked Act had a good effect; his Death quicken'd and alarum'd the Captain, the Commanders, and the generality of the Ships-Company.</p>
+            <p>And now the <hi>Council</hi> is call'd together; the Diſcoverer of the fore-mentioned Treachery is more fully Examined. He unravels the whole Myſtery, and relates how there were on Board the Ship a great many <hi>Mahometans,</hi> and <hi>mungrel Chriſtians,</hi> who held correſpondence with the chief of <hi>Algier</hi>: and that their Deſign was to betray the Ship, to ſlay or enſlave all thoſe that made oppoſition; and becauſe they apprehended the Captain was not for their turn, to take him out of the way. Further, that the <hi>Algerines</hi> had promiſed them their Aſſiſtance, to furnish them with Men, Ammunition, and Provi<g ref="char:EOLhyphen"/>ſion; as alſo, to make <hi>their Lieutenant Captain,</hi> who was a <hi>Mahometan,</hi> and true to their Intereſt. He alſo accuſed the <hi>Purſer,</hi> and five other great Rogues amongſt us, for having a hand in this Conſpiracy, and who were to be Principal Officers in the Ship upon this Alteration. Several other Per<g ref="char:EOLhyphen"/>ſons he named, as active Managers of this Deviliſh Deſign, and told the very times when, and the places where they had their Conſults for the carrying of it on, and that he himſelf had been engaged and employed therein. Hereupon the Captain and Council ſeize the five perſons before-mentioned, and ſeveral others, and ſecure them in the Hold, and ſome time after the Purſer was ſent to keep them company.</p>
+            <p>By this time two or three more of the Conſpirators began to relent; one of them confeſs'd the <hi>Murther</hi> of the <hi>Boatſwaine,</hi> and that he had a hand in it. This mightily confirmed the evidence of the firſt Diſcoverer, and convinced all diſintereſted perſons of the reality of the Treachery. Whereupon the Diſcoverers, (as there was reaſon) being pardoned, ſome few of thoſe who were moſt active and forward in the Plot, and that had a hand in the <hi>Boatſwain's</hi> Death, upon a full and fair hearing, were condemn'd and ſentenc'd to death, and accordingly were hanged at the <hi>Main-yard.</hi> Only one of the Criminals (who had undertaken as was clearly prov'd in the judgment of many unbiaſſed perſons who were preſent at the Tryal, to <hi>poyſon</hi> the <hi>Cap<g ref="char:EOLhyphen"/>tain</hi>) a Chyrurgions Mate, chanc'd to be quitted; who made haſte (which was his wiſeſt courſe) to get a Shore, and was never heard of ſince.</p>
+            <p>The Diſcharge of this little <hi>Doctor</hi> greatly aſtoniſh'd the Ships-Company, and no leſs animated the <hi>Conſpirators.</hi> They preſently give out, that there was no ſuch Treacherous deſign in hand; that it was only a falſe and malicious forgery of two or three perſons, whom they loaded ſufficiently with Ca<g ref="char:EOLhyphen"/>lumnies. And one thing contributed greatly to their confidence; whil'ſt they were very warm in ſearching into this Plot, and bringing the Offenders <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> LIEUTENANT by his being a <hi>Mahometan,</hi> had given life to its I ſay, whilſt they were thus buſied, they <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhould be firſt tryed And though to <hi>quiet the Saylors,</hi> he hath ſummoned them twice or thrice ſince, yet when the time comes, he either won't let them ſit, or diſmiſſes them when they are juſt entred into their Debates; ſuſpecting that ſome of his <hi>Council</hi> may have ſome private Deſign of their own.</p>
+            <p>This proceeding of the <hi>Captains,</hi> fills the Council and the whole Ships-Company too, with ſtrange fears and jealouſies, they know not what to think or ſay; but whatſoever the ſimple ſort mutter, the wiſer do conclude the <hi>Captain</hi> is Real and Cordial in his proſecution of the Conſpirators, becauſe he hath alwayes <hi>profeſſed</hi> himſelf to be a Chriſtian, and the Conſpirators have attempted to take away his Life; as alſo knowing that he will not be found out of his own Intereſt; for he can never expect a better Command in the Ship than he now hath: and if they ſhould continue him ſo, it muſt be with the Imparing of his Honour, and Curtailing of his Power. And though he won't ſuffer the Council to ſit and Act, yet he himſelf is active for the preventing of this Plot. He hath poſted many Orders upon the Main-maſt, that all <hi>Mahometans</hi> ſhall leave the Ship. And though none of them ſtir, yet the reaſon is this, they have great <hi>Abettors,</hi> as the <hi>Lieutenant,</hi> the <hi>Captains Lady,</hi> &amp;c. Beſides, they have a Diſpenſation from the <hi>Mufti,</hi> and are allowed to conceal their Religion; yea, in order to the ſaving of themſelves and carrying on of their Deſign, to take any <hi>Teſts</hi> or <hi>Oaths</hi> that are impoſed upon them.</p>
+            <p>Yet notwithſtanding (which is to me a Myſtery) the Conſpirators are much emboldened. The other day they had the Confidence to treat with ſome of the Diſcoverers to let fall their Proſecution, to make a Recantation, and promiſed them great Rewards for their ſo doing. And to invalidate the Evidence of the firſt <hi>Diſcoverer,</hi> they raiſed ſeveral Scandals upon him; Yea they had ſuborned a <hi>Moor</hi> that waited upon him to ſwear that he would have <hi>Buggered</hi> him in his <hi>Cabbin.</hi> Nay, they had the Face to invent and feign a new Plot; which was, that the honeſt Saylors were about to make head againſt the Captain, and to run away with the Ship to the Commonwealth of <hi>Venice.</hi> The <hi>Lieutenant</hi> ſent a ſpruce forward Seaman to the <hi>Captain</hi> with an Information about the Sham-plot: which was at firſt believed, but it was ſo ſimply managed, that every <hi>Tarpaulin</hi> could ſee through it.</p>
+            <p>For at that time the Captain had ſeveral of the <hi>Mahomitans,</hi> who had been in the former Conſpiracy, to betray the Ship, Priſoners in the Gun-room. One of which, having the Liberty for his Wife to come and ſee him aboard, who was a Woman that pretended to great Cunning and Deſign, ſo ordered it, that a Creature of hers was by the Lieutenant re<g ref="char:EOLhyphen"/>commended to the Captain to be by him new liſted in the Ship. To him this Woman, by the Advice of a certain Confident of hers, who was eſteemed a great Midnight Sorce<g ref="char:EOLhyphen"/>reſs or Enchantreſs among the <hi>Mahometans</hi> gives full Inſtructions, and for his better Confirmation orders him to conſult with an <hi>Arabian,</hi> an Intimado of hers, who pretended to have great Knowledge in the Stars, who gave him full Aſſurances of Succeſs. The Seaman thus furniſhed, comes to the Captain and informs againſt one of the Midſhip-men, that he had contraband Goods concealed in his Cabin, and deſires Liberty to ſearch. Which being granted, he privately conveighs a Packet of Letters into the Midſhip-mans Bed-cloaths, and then finding them himſelf, when none of the reſt of his Aſſiſtants could, he cry'd out Treaſon, Treaſon, againſt the Captain. The Midſhip-man was then gone a Shoar upon ſome particular Buſineſs of his own; but upon his Return finding the whole Ships Company in an Uproar, and all ready to fling him overboard, he was at firſt in no ſmall Diſtra<g ref="char:EOLhyphen"/>ction; till at length, being informed by ſome that were his Friends, of the Occaſion, as he was an old experienced Seaman, and not eaſily daunted, he reſolv'd to go and appear be<g ref="char:EOLhyphen"/>fore the Captain himſelf, and juſtifie his own Innocency. The Captain heard him with much Patience, as being one that he had never found faulty before, and therefore was not wil<g ref="char:EOLhyphen"/>ling to condemn over haſtily. At length, after a ſtrict Examination of the Buſineſs, the Midſhip-man ſo well acquitted himſelf, and render'd ſo invalid the Teſtimony of the new Sea<g ref="char:EOLhyphen"/>man, that inſtead of being lookt upon himſelf as a Conſpirator againſt the Ship, the new Seaman was adjudg'd to have dealt falſely, and was thereupon by the Captain committed to the <hi>Bilboes,</hi> till he diſcovered the Authors, Abetters, and Contrivers of the Deſign againſt the Midſhip-man, which had it taken effect, had involv'd moſt of the honeſt Seamen in a moſt deſtructive Treaſon, to the greateſt Advantage of the <hi>Mahometans.</hi> But as Treaſon ſeldome thrives, it fell out at Length ſo happily, that the new Seaman, touch'd with Re<g ref="char:EOLhyphen"/>morce of Conſcience, moſt ingeniouſly confeſs'd the whole Matter, that he had moſt treacherouſly abus'd the faithful and true hearted Sailors, impos'd upon the Mildneſs of the Cap<g ref="char:EOLhyphen"/>tain, and that he was ſet on Work by ſome of thoſe that were the Principalls in this general and moſt deteſtable Conſpiracy of the <hi>Algerines</hi> themſelves.</p>
+            <p>In this diſtreſſed poſture we abide, and ſee no <hi>hope</hi> of <hi>Deliverance.</hi> A day or two ago, ſome <hi>Merchants</hi> who have a conſiderable adventure aboard the Ship, addreſs'd themſelves to the <hi>Captain,</hi> and prayed (in moſt humble manner) that he would conſider of the preſent danger they were in, and ſuffer the Council to ſit, to find out a way (if it were poſſible) to prevent their utter Ruin. He bad them meddle with what belonged to them, they ſhould let him alone to <hi>govern the Ship</hi>; who was as ſollicitous about her Safety as the beſt of them all.</p>
+            <p>The <hi>Saylors</hi> alſo were about a Petition to the ſame purpoſe, which coming to the Captains ear, he expreſs'd his diſlike of it, which very much ſaddens the Hearts of the Saylors.</p>
+            <p>I remember how they received the <hi>Captain</hi> when he came firſt aboard; they <hi>toſt</hi> up their <hi>Caps,</hi> and cryed, God bleſs the Captain, we'l live and dye with him, one and alll, &amp;<hi>c.</hi> And ſtill they have that Reſpect for him, that they vow if he be taken away by any undue means, they will revenge his Death upon all the <hi>Mahometans</hi> aboard the Ship. And in<g ref="char:EOLhyphen"/>deed there is no great Fear of them: for they are but few in Compariſon. The great Fear is that the <hi>Algerines,</hi> the next fair Wind, will fall upon us in our <hi>Harbour</hi>; and to ſpeak the Truth, we are but ill provided to defend our ſelves. But yet the Ship is as ſtout a Ship as any Sails the Seas, and we are very well mann'd. And the Seamen are full both of <hi>Rage and Courage</hi>; So that if ever they attack us, they may poſſibly find hot Work of it, and come ſhort home. Steady a Starboard. No neer Boys. That's the Word. Let the Captain provide us but good Pil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes, and we'l warrant the Ship; For if then ſhe fail, 'tis Heaven and not humane Strength that fights againſt us. But if we be deficient our ſelves, all that we can hope for, is that kind Heaven wiil be merciful, and not abandon a helpleſs Veſſel to the Waves of Forreign Deſtruction.</p>
+            <q>
+               <l>Some fall, becauſe they will not ſtand,</l>
+               <l>Some ſhipwrack, 'cauſe they will not Land,</l>
+               <l>What pity, if they ruin'd be</l>
+               <l>That Storms approaching will not ſee.</l>
+            </q>
+            <trailer>Quod avertat Deus.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
